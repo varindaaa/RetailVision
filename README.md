@@ -29,8 +29,8 @@ The dashboard provides an interactive platform to analyze sales KPIs, compare ca
 ## 📈 Dashboard Preview
 Below are preview images of the Tableau dashboard:
 
-⚙️ Files Included
+## ⚙️ Files Included
 - `Retail_Sales_Dashboard.twbx` – Tableau packaged workbook  
-- `Superstore_Data.csv` – dataset used  
-- `Dashboard_Screenshot1.png`, `Dashboard_Screenshot2.png` – visualization previews  
+- `Sales Data.xls`,`Managers.xls`,`hexmap.xls`,`Returns.xls` – dataset used  
+- `Dashboard.png` – visualization previews  
 - `README.md` – project documentation  
