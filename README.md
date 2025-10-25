@@ -30,6 +30,7 @@ The dashboard provides an interactive platform to analyze sales KPIs, compare ca
 Below are preview images of the Tableau dashboard:
 ![Dashboard Overview](images/<img width="658" height="366" alt="Dashboard" src="https://github.com/user-attachments/assets/eedcb24a-9910-457c-b7a7-c0a6ac26ca70" />
 )
+*Dashboard Overview*
 
 ## ⚙️ Files Included
 - `Retail_Sales_Dashboard.twbx` – Tableau packaged workbook  
